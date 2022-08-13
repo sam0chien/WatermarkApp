@@ -1,1 +1,2 @@
-# JUST A WATERMARK APP
+# Watermark
+GUI application practice.
